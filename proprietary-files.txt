@@ -432,8 +432,6 @@ vendor/lib64/libsn220u_fw.so
 # Sensors
 vendor/bin/mot_vsync_psd
 vendor/lib64/panel_als_comp_filter_rtwo.so
-vendor/lib64/sensors.moto.so
-vendor/lib64/sensors.ssc.so
 
 # Sensor - configs
 vendor/etc/sensors/als_comp_config.xml
