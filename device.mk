@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
     FrameworksResRtwo \
     LineageSystemUIRtwo \
     ProductFrameworksResRtwo \
-    SettingsProviderResRtwo \
     SettingsResRtwo \
     SystemUIResRtwo
 
