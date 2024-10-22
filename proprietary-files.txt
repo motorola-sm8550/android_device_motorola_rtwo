@@ -39,7 +39,12 @@ vendor/etc/aualgo/aualgo_comp_azpp.conf
 vendor/etc/aualgo/aualgo_sst.conf
 
 # Camera
+vendor/bin/hw/vendor.qti.camera.provider-service_64
 vendor/etc/eva/facedetection/model3.dat
+vendor/etc/init/vendor.qti.camera.provider-service_64.rc
+vendor/etc/vintf/manifest/vendor.qti.camera.aon-impl-1.3.xml
+vendor/etc/vintf/manifest/vendor.qti.camera.postproc-impl.xml
+vendor/etc/vintf/manifest/vendor.qti.camera.provider.xml
 vendor/lib64/camera/arcsoft_dc_calibration_u.bin
 vendor/lib64/camera/com.qti.ois.mot_dw9784.so
 vendor/lib64/camera/fdconfigpreview.bin
