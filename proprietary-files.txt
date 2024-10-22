@@ -28,9 +28,6 @@ vendor/etc/acdbdata/nn_ns_models/fai__4.8.4_0.0__3.0.0_0.0__3.1.1_0.0__3.2.0_0.1
 vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd
 vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_2.10_enpuv3.pmd
 
-# Audio libraries
-vendor/lib64/libar-acdb.so
-
 # Audio - aualgo config
 vendor/etc/aualgo/ainr_tfv2.dat
 vendor/etc/aualgo/aualgo_ainr.conf
