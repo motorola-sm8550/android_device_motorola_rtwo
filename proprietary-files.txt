@@ -79,7 +79,7 @@ vendor/lib64/liba2d_helper.so
 vendor/lib64/libaidenoiser.so
 vendor/lib64/libaidenoiserv2.so
 vendor/lib64/libanc_supervq.so
-vendor/lib64/libancbase_rt_fusion.so
+vendor/lib64/libancbase_rt_fusion.so;FIX_SONAME
 vendor/lib64/libarcsoft_chi_utils.so
 vendor/lib64/libarcsoft_hdr_detection.so
 vendor/lib64/libarcsoft_high_dynamic_range_v4.so
