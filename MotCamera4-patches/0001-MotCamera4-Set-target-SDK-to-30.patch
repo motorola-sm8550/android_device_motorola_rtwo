@@ -1,4 +1,4 @@
-From 9c048608e35b8d00661312f3156886d4accd2885 Mon Sep 17 00:00:00 2001
+From 2b84f274e9ddc3f34698cb608d0ad6bf14158e49 Mon Sep 17 00:00:00 2001
 From: Marc Bourgoin <themard85@gmail.com>
 Date: Thu, 2 May 2024 23:15:02 -0600
 Subject: [PATCH] MotCamera4: Set target SDK to 30
@@ -9,7 +9,7 @@ https://github.com/LineageOS/android_frameworks_base/commit/8e742f928e0b3d242a29
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/apktool.yml b/apktool.yml
-index 8d11ce7b..d298a15a 100644
+index bdd787b8..7a14bf63 100644
 --- a/apktool.yml
 +++ b/apktool.yml
 @@ -6,8 +6,8 @@ usesFramework:
@@ -23,3 +23,6 @@ index 8d11ce7b..d298a15a 100644
  packageInfo:
    forcedPackageId: 127
    renameManifestPackage: null
+-- 
+2.43.0
+
